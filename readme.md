@@ -13,4 +13,9 @@
 14. RPC Cargar Data
 15. Funcionales de Odoo
 16. Crear Pedidos, Facturas y Alabaranes
-17. 
+17. Wizard
+18. Acciones
+19. Traducciones
+20. Cron
+21. Enviar Email
+22. Notificar a usuarios
