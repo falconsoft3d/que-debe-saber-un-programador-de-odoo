@@ -20,3 +20,6 @@ Qué debe saber un programador de Odoo ERP
 20. Cron
 21. Enviar Email
 22. Notificar a usuarios
+23. Trabajar con campos many2many
+24. Agregar botones en la derecha de los formularios como contadores
+25. Trabajar con estados y bloquear campos segun estado.
