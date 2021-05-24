@@ -1,3 +1,4 @@
+Qué debe saber un programador de Odoo ERP
 1. Heredar modelos y vistas / Agregar campos.
 2. Heredar modelos y vistas / Remplazar campos.
 3. Heredar modelos / Remplazar funciones.
