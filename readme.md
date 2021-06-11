@@ -29,3 +29,12 @@ Qué debe saber un programador de Odoo ERP
 29. Trabajar con API REST
 30. POS
 31. SQL en Odoo
+
+
+Proceso para  Programadores nuevos
+1- Se necesita un modulo de cada uno de los ejemplos que están en este link: https://github.com/falconsoft3d/que-debe-saber-un-programador-de-odoo
+2- Para lo cual se usara la plantilla que esta en el repo.
+3- Todo modulo tiene que tener traducción.
+4- Cuando se termine cada módulo se sube al servidor y se actualiza, se pasa las capturas de pantalla del trabajo para revisarlo.
+6- Al final del dia se envia un email con el resumen de los módulos terminados. En formato PDF.
+7- Se trabaja con la rama 14.0
