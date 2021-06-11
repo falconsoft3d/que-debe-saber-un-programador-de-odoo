@@ -1,4 +1,4 @@
-Qué debe saber un programador de Odoo ERP
+# Qué debe saber un programador de Odoo ERP
 1. Heredar modelos y vistas / Agregar campos.
 2. Heredar modelos y vistas / Remplazar campos.
 3. Heredar modelos / Remplazar funciones.
@@ -31,7 +31,7 @@ Qué debe saber un programador de Odoo ERP
 31. SQL en Odoo
 
 
-Proceso para  Programadores nuevos
+# Proceso para  Programadores nuevos
 1. Se necesita un modulo de cada uno de los ejemplos que están en este link: https://github.com/falconsoft3d/que-debe-saber-un-programador-de-odoo
 2. Para lo cual se usara la plantilla que esta en el repo.
 3. Todo modulo tiene que tener traducción.
