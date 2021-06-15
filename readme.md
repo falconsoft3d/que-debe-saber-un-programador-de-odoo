@@ -39,3 +39,4 @@
 6. Al final del día se envia un email con el resumen de los módulos terminados en formato PDF.
 7. Se trabaja con la rama 14.0.
 8. El nombre del módulo deberia ser moduls001 siguiendo el consecutivo por cada número.
+9. Es importante dar avances del trabajo para poder ir corrigiendo problemas tempranamente. Ideal cada 2h.
