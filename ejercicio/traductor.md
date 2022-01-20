@@ -1,1 +1,0 @@
-Crea un modulo que tenga un modelo con dos campos español e ingles, luego con un wizard preguntas la palabra a traducir y muestras un mensaje con el resultado, tambien permites descargar en pdf o xls el resultado
